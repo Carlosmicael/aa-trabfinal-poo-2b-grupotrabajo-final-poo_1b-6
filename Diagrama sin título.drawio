@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-22T17:28:59.025Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="z8IjoQBzlrBNM1X-ikSM" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-22T17:54:41.029Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="9Em8bVmwLtDJuEPC7VvL" version="22.1.3" type="github">
   <diagram name="Página-1" id="hF_rEiuC2ofaMZnCks0F">
     <mxGraphModel dx="1002" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -139,6 +139,24 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="160" as="sourcePoint" />
             <mxPoint x="240" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AQ_QJQ1Q1aeeGUx1kPGu-37" value="&lt;font color=&quot;#33ffff&quot;&gt;codigo&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;strokeColor=#00FFFF;" vertex="1" parent="1">
+          <mxGeometry x="560" y="190" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ_QJQ1Q1aeeGUx1kPGu-38" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#00FFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="609.5" y="230" as="sourcePoint" />
+            <mxPoint x="609.5" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AQ_QJQ1Q1aeeGUx1kPGu-39" value="&lt;font color=&quot;#33ffff&quot;&gt;nombre&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeColor=#00FFFF;" vertex="1" parent="1">
+          <mxGeometry x="690" y="120" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ_QJQ1Q1aeeGUx1kPGu-40" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#33FFFF;" edge="1" parent="1" source="AQ_QJQ1Q1aeeGUx1kPGu-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="595" y="200" as="sourcePoint" />
+            <mxPoint x="640" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
